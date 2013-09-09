@@ -1,4 +1,4 @@
 arr = [1.2.3]
-arr.each do |e|
-	puts e
+arr.each do |i|
+	puts i #added a comment and changed iterator from e to i
 end
